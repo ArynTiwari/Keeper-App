@@ -17,4 +17,16 @@
     white-space: pre-wrap;
     word-wrap: break-word;
   }
-  
+  .note button {
+    font-size: 15px;
+    border-radius: 16px;
+    position: relative;
+    float: right;
+    margin-right: 10px;
+    color: #fff;
+    border: none;
+    height: 36px;
+    cursor: pointer;
+    outline: none;
+    background-color: #f5ba13;
+  }
